@@ -1,20 +1,20 @@
-# Code Style: Beautiful Code Principles
+# Estilo de código: principios de código limpio
 
-## Forking a repository
+## Bifurcar un repositorio
 
-To make the copy of a repository, click on the Fork button in the upper right corner of the repository page. This will produce the duplicate of the project in your GitHub account. If you don't have an account, create it.
+Para hacer una copia de un repositorio, haz clic en el botón Fork (bifurcar) en la esquina superior derecha de la página del repositorio. Esto producirá un duplicado del proyecto en tu cuenta de GitHub. Si no tienes una cuenta, asegúrate de registrarte.
 
-![fork button](https://raw.githubusercontent.com/PraktikumJava/public-resources/master/fork.png)
-
-
-## Cloning a repository
-
-Open the Repositories tab on your GitHub page and select the repository you forked on the previous stage. Click on the Code button in the right part of the page:
-
-![fork button](https://github.com/practicum-com/public-resources/blob/main/clone.png)
+![botón de bifurcación (fork)](https://raw.githubusercontent.com/PraktikumJava/public-resources/master/fork.png)
 
 
-You will see the window where you can copy the repository address. It'll be necessary for cloning. Now open the command prompt and move to the folder where you're going to save the repository. Enter the git clone command and the address of the repository:
+## Clonar un repositorio
+
+Abre la pestaña Repositories (repositorios) en tu página de GitHub y selecciona el repositorio que bifurcaste en la etapa anterior. Haz clic en el botón Code (código) en el lado derecho de la página:
+
+![botón de bifurcación (fork)](https://github.com/practicum-com/public-resources/blob/main/clone.png)
+
+
+Verás una ventana donde puedes copiar la dirección del repositorio. Esto será necesario para clonarlo. Ahora abre el símbolo del sistema y muévete a la carpeta donde vas a guardar el repositorio. Introduce el comando git clone y la dirección del repositorio:
 
 ```bash
 git clone https://github.com/THE_NAME_OF_YOUR_ACCOUNT_HERE/code-style-and-effective-work-in-ide-code-style.git
@@ -22,8 +22,8 @@ git clone https://github.com/THE_NAME_OF_YOUR_ACCOUNT_HERE/code-style-and-effect
 
 ## Importing a project into IDEA
 
-Select the Open or Import item in the dialogue at the IDEA start-up.
+Selecciona el elemento Open (abrir) o Import (importar) en el cuadro de diálogo al iniciar IDEA.
 
-![fork button](https://raw.githubusercontent.com/PraktikumJava/public-resources/master/import.png)
+![botón de bifurcación (fork)](https://raw.githubusercontent.com/PraktikumJava/public-resources/master/import.png)
 
-In the appeared dialogue window for opening files, choose the folder with the cloned repository and click on the Open button. Pay attention that you need to open the entire directory. After this, the project will be added to IntelliJ IDEA.
+En la ventana para abrir archivos, elige la carpeta con el repositorio clonado y haz clic en el botón Open. Ten en cuenta que debes abrir todo el directorio. Después de esto, el proyecto se agregará a IntelliJ IDEA.
