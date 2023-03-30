@@ -11,7 +11,7 @@ Para hacer una copia de un repositorio, haz clic en el botón Fork (bifurcar) en
 
 Abre la pestaña Repositories (repositorios) en tu página de GitHub y selecciona el repositorio que bifurcaste en la etapa anterior. Haz clic en el botón Code (código) en el lado derecho de la página:
 
-![botón de bifurcación (fork)](https://github.com/practicum-com/public-resources/blob/main/clone.png)
+![botón de bifurcación (fork)](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/Java/Sprint_4/esp/Screenshot_4.png)
 
 
 Verás una ventana donde puedes copiar la dirección del repositorio. Esto será necesario para clonarlo. Ahora abre el símbolo del sistema y muévete a la carpeta donde vas a guardar el repositorio. Introduce el comando git clone y la dirección del repositorio:
